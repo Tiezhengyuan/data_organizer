@@ -1,0 +1,8 @@
+Name,Specie,Type,Birth Date,Age,Life expectancy
+d4,turtle,reptile,2012-01-01,7,103.0
+d5,iguana,reptile,2017-01-01,2,5.0
+d6,eagle,bird,2018-12-01,1,5.0
+d7,hawk,bird,2018-07-12,1,5.0
+d1,goat,mammal,2010-01-01,9,6.0
+d2,lion,mammal,2012-01-01,7,8.0
+d3,pig,mammal,2017-01-01,2,13.0
